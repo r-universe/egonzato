@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "mtvc"]
+	path = mtvc
+	url = https://github.com/egonzato/mtvc
 [submodule "windows.pls"]
 	path = windows.pls
 	url = https://github.com/egonzato/windows.pls
